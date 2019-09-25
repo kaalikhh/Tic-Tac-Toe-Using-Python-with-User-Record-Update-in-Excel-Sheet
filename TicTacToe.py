@@ -173,7 +173,7 @@ def tic_tac_toe():
             df.to_excel(file_path)
 
         elif ind1>(-1) and ind2==-1:        
- #If only player2 is new
+#If only player2 is new
             
             df.at[ind1,'3_Total']+=1
             if win_1>win_2:
@@ -207,10 +207,8 @@ def tic_tac_toe():
             df.sort_values('4_Wins',ascending=False,inplace=True)
             df.reset_index(drop=True,inplace = True)
             df.to_excel(file_path)
-        else:
-            
+        else:            
 #if Both are pre-existing Players defined in data base
-            
             df.at[ind1,'3_Total']+=1
             if win_1>=win_2:
                 df.at[ind1,'4_Wins']+=1
