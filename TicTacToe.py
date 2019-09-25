@@ -172,7 +172,7 @@ def tic_tac_toe():
             df.reset_index(drop=True,inplace = True)
             df.to_excel(file_path)
 
-        elif ind1>(-1) and ind2==-1:        
+        elif ind1>(-1) and ind2==-1:
 #If only player2 is new            
             df.at[ind1,'3_Total']+=1
             if win_1>win_2:
@@ -189,7 +189,7 @@ def tic_tac_toe():
 
             df.to_excel(file_path)
 
-        elif ind2>(-1) and ind1==-1:           
+        elif ind2>(-1) and ind1==-1:
 #If only player1 is new
             df.at[ind2,'3_Total']+=1
             if win_2>win_1:
