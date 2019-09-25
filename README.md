@@ -1,5 +1,7 @@
 # Tic Tac Toe Game using Python
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4d653789c5fc4527b00565e49feb2cac)](https://www.codacy.com/manual/saurabhyadav789/Tic-Tac-Toe-Using-Python-with-User-Record-Update-in-Excel-Sheet?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=saurabhyadav789/Tic-Tac-Toe-Using-Python-with-User-Record-Update-in-Excel-Sheet&amp;utm_campaign=Badge_Grade)
+
 Tic-tac-toe (American English), noughts and crosses (British English), or Xs and Os is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 Total lines of code without comments: 220
 Total lines of code without comments: 258
