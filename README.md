@@ -18,7 +18,7 @@ Libraries used
 
 Operations and modules used from Pandas library
 - File importing and reading function, dataframe data structures, concatenation, sort, index resetting
-- User data (Name and Age) has been taken as dictionary form and getting stored in dataframe datastructure
+- User data (Name and Age) has been taken as dictionary form and getting stored in dataframe data structure
 
 Operations and modules used from Python library
 - Used namespace for importing pandas as pd
